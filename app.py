@@ -56,7 +56,7 @@ st.caption("Built by Subash | AI Skin Cancer Detector")
 
 print("Current Dir:", os.getcwd())
 
-model = load_model("final_model.keras")
+model = load_model("final_model.keras", compile=False)
 
 
 # 🔥 MAIN CARD
