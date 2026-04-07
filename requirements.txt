@@ -2,5 +2,6 @@ streamlit
 tensorflow==2.15
 keras==2.15
 opencv-python-headless
+pillow
 numpy
 h5py
