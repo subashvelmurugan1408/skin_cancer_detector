@@ -6,7 +6,7 @@ A web-based AI application that detects whether a skin lesion is **benign or mal
 
 ## 🚀 Live Demo
 
-🔗 *Add your deployed app link here*
+🔗 https://cancerdetectormodel-weight-btxikrbynmpc5hbczuhthc.streamlit.app/
 
 ---
 
